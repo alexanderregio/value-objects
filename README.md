@@ -1,4 +1,3 @@
-```markdown
 ## Value Objects em DDD: Uma Abordagem Prática
 
 Este documento explora o conceito de Value Objects em Domain Driven Design (DDD) com exemplos de código em C#.
@@ -107,4 +106,3 @@ Este exemplo demonstra como utilizar Value Objects em DDD com C#. A classe `Valu
 ### Conclusões
 
 Value Objects são um conceito importante em DDD que permite modelar o domínio de forma precisa e eficiente. Ao utilizar Value Objects, você pode melhorar a qualidade do código, tornando-o mais legível, mais seguro e mais fácil de manter.
-```
